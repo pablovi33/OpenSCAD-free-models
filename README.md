@@ -13,6 +13,20 @@ Colección de scripts parametrizables para la elaboración de proyectos 3D y 2D 
 
 Esta es la rama de proyectos principal, aquí se puden añadir colaboraciones que posteriormente se integrarán a la rama de proyectos en la organización LIDSOL (Laboratorio de Investigación y Desarrollo de Software Libre).
 
+## LIDSOL
+
+Web site: https://lidsol.org/
+
+
+For more objects and models like this, follow us on:
+Para más materiales y modelos como éste, síguenos en:
+
+(Available until May 2018/Disponible hasta Mayo 2018).
+https://github.com/LIDSOL/OpenSCAD-free-models/
+
+(Available from May 2018 onwards/Disponible a partir de Mayo 2018).
+https://gitlab.com/idea161/OpenSCAD-free-models/
+
 # Como contribuir
  
  Los nuevos participantes deberán colaborar en el fork del repositorio de LIDSOL del usuario @pablovi33 para que sus nuevos scripts sean aprobados por el administrador en turno y éste pueda solicitar pull request en la rama master de la organización LIDSOL, para hacer inclusiones en la rama principal notificarle al autor del código original, se pueden elaborar nuevos proyectos con códigos o librerías existentes.
